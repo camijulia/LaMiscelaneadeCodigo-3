@@ -1,7 +1,15 @@
 def factorial (numero):
   print numero 
-  if numero == 0:
+  if numefdg-asdghLÑHYk%LÑ
     return 1
   else:  
-    return numero + factorial (numero - 2)
+    retusdggjkljsdaklñactorial (numero - 2)
 factorial(12)
+dsg,.-ylñ`
+6
+hyu56gh
+f456ety3mjt6hgwc4ty
+´po´
+/
+
+que tengas buen dia :3
